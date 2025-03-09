@@ -1,0 +1,5 @@
+## Packages for EDM project at UPV 
+
+numpy
+pandas
+scikit-learn
